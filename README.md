@@ -10,22 +10,16 @@ This project is a Steganography-based encryption tool that allows users to hide 
 
 🚀 Installation
 Step 1: Clone the Repository
-sh
-Copy
-Edit
 git clone https://github.com/bujjichanga/secure-data-hiding-in-images-using-steganography.git
 cd secure-data-hiding-in-images-using-steganography
+
 Step 2: Install Dependencies
 Ensure you have Python installed, then install the required libraries:
-
-sh
-Copy
-Edit
 pip install -r requirements.txt
+
 Step 3: Run the Application
-sh
-Copy
-Edit
+
+
 streamlit run app.py
 🛠 How It Works
 🔏 Encryption Process
