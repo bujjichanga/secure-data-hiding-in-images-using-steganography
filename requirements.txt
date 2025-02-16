@@ -1,0 +1,16 @@
+📌 Required Python Libraries
+txt
+Copy
+Edit
+streamlit
+opencv-python
+numpy
+
+📌 Optional (For Additional Functionality)
+txt
+Copy
+Edit
+opencv-python-headless  # If running on a server without a GUI
+Pillow                  # For advanced image processing
+
+pip install -r requirements.txt
